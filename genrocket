@@ -1,0 +1,15 @@
+https://ak-docker-images.s3.us-east-2.amazonaws.com/genrocket-3.5.22.zip
+
+https://ak-docker-images.s3.us-east-2.amazonaws.com/genrocket-3.5.22.jar
+https://ak-docker-images.s3.us-east-2.amazonaws.com/gr-receivers-3.5.22.1.jar
+https://ak-docker-images.s3.us-east-2.amazonaws.com/gr-engine-3.5.22.0.jar
+https://ak-docker-images.s3.us-east-2.amazonaws.com/gr-generators-3.5.22.0.jar
+
+https://ak-docker-images.s3.us-east-2.amazonaws.com/Config.properties
+https://ak-docker-images.s3.us-east-2.amazonaws.com/GR5383049Certificate.grc
+https://ak-docker-images.s3.us-east-2.amazonaws.com/GR5383049Profile.grp
+
+https://ak-docker-images.s3.us-east-2.amazonaws.com/ReceiverDescriptions.lib
+https://ak-docker-images.s3.us-east-2.amazonaws.com/GeneratorDescriptions.lib
+
+https://ak-docker-images.s3.us-east-2.amazonaws.com/RuleDataGroovyScenario.grs
